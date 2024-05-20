@@ -23,4 +23,8 @@ return {
   -- Indentation plugins
   { import = "astrocommunity.indent.indent-rainbowline" },
   -- Indentation plugins
+
+  -- Text editor plugins
+  { import = "astrocommunity.editing-support.vim-visual-multi" }, -- Permite vários cursores no arquivo
+  -- Text editor plugind
 }
