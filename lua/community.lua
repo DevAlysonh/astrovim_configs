@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.vue" },
   -- Language packs
 
